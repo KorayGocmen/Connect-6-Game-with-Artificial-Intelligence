@@ -6,3 +6,7 @@ The Defender: This artifical intelligence is built for speed. It only tries to b
 The Look Ahead: This artifical intelligence looks 2 moves ahead. The global variable labeled as "DIFF" is how many moves it can look ahead. You can change this variable. It slows down too much when it is >= 7. 
 
 NOTE: PLEASE DO NOT COPY THIS CODE FOR YOUR LAB ASSIGNMENTS. YOU CAN USE IT AS A REFERENCE HOWEVER COPYING, IS PLAGIARISM AND YOU WILL GET CAUGHT.
+
+<b>Small Example</b>
+</br>
+![lab7](https://cloud.githubusercontent.com/assets/15402874/11346017/7df047ac-91e8-11e5-84fd-88d84aff6bbd.png)
